@@ -1,7 +1,6 @@
 						Game Programming Workshop:
 
 Name: Sujjad Ahmed Salaria
-Roll no.: 16Z354
 BE CSE (G2)
 
 =======================================================================================
